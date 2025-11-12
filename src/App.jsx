@@ -12,7 +12,7 @@ import {
   UserButton,
 } from "@clerk/clerk-react";
 
-const SOCKET_URL = "http://localhost:8080";
+const SOCKET_URL = "https://game1-backend-ja8h.vercel.app";
 
 // ---------- Header ----------
 function Header({ user, onOpenSignIn, onOpenSignUp }) {
@@ -451,7 +451,7 @@ function MainApp({ user }) {
   const [selectedGame, setSelectedGame] = useState(null);
   const [joinedGames, setJoinedGames] = useState([]);
 
-  const API_URL = "http://localhost:8080/api"; // backend URL
+  const API_URL = "https://game1-backend-ja8h.vercel.app/api"; // backend URL
 
   // Connect to socket.io
   useEffect(() => {
