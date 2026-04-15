@@ -1,5 +1,3 @@
- This project link   game1-frontend.vercel.app
- --the backend is in progress but still have to deploy it
  
  # ⚽ Game Connect
 
@@ -58,15 +56,11 @@ This was one of the first projects I built, but it reflects how I approach devel
 
 ---
 
-## 📸 Screenshots
-
-(Add 2–3 screenshots here)
-
----
-
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+(game1-frontend.vercel.app)
+
+ --the backend is in progress but still have to deploy it
 
 ---
 
